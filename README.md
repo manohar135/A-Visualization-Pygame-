@@ -12,3 +12,4 @@ This project offers a visual representation of the A* search algorithm using Pyg
 "r" ->  reset
 "q" ->  quicksort
 "p" ->  A* path finding algo
+"space" -> find path
